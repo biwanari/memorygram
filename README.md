@@ -3,7 +3,7 @@ A local organizer instagram data based on instaloader
 ***
 ## TODO  
 1. Web view
-    - card with vews, follower, name, id, photo
+    - card with views, follower, name, id, photo
     - card for each images poll, stories archive
     - card for statistics(this only for data compare)
 2. library
