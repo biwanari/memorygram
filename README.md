@@ -21,4 +21,8 @@ A local organizer instagram data based on instaloader
   - more option
     - to define...
     
-***
+***  
+## Guidelines  
+1. 
+    - every id or class tag attribute begin with container-test, container-title etc..
+    - 
