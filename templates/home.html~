@@ -67,8 +67,7 @@ div {
 		</div>
 		<div id="container-image-ig">
 		    <img src="{{ url_for('static', filename='igblack.png' ) }}"
-		        alt="igblacknevercomeback"
-		        idth="100" height="100" >
+		        alt="igblacknevercomeback" >
 		</div>
 		
 		<div id="container-textprofile">
