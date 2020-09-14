@@ -26,3 +26,5 @@ A local organizer instagram data based on instaloader
 1. 
     - every id or class tag attribute begin with container-test, container-title etc..
     - add user as collaborator with  pull requests
+
+finish.
